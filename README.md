@@ -1,6 +1,6 @@
 #### KPMG Data Analytics Consulting Virtual Internship with Forago
 
-This project was done under KPMG data analysis virtaul internship program. Project demonstrtes skills to perform complete data analysis on given datasets. Steps include data cleaning, data transofmartion, Summay preparion, cold emailing, power poitnt presentations, performing complete data analysisng, creating charts and graphs, preparing dashboard to share with client.
+This project was done under KPMG data analysis virtaul internship program. Project demonstrates skills to perform complete data analysis on given datasets. Steps include data cleaning, data transofmartion, Summay preparion, cold emailing, power poitnt presentations, performing complete data analysisng, creating charts and graphs, preparing dashboard to share with client.
 
 A company named SPROCKET central, that deal in high quality bikes and accessories wants it's data to analyzed to find the best target customers for future business. sprocket has shared few datasets with KPMG to clean, transform, and analyzed and present back to client with data insight so they could make correct decisions. Datasets provided: - Demographic Details - New Customers Details - Customers address - Transcations
 
