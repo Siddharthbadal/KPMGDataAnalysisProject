@@ -6,7 +6,7 @@ A company named SPROCKET central, that deal in high quality bikes and accessorie
 Datasets provided:
 	-	Demographic Details
 	-	New Customers Details
-	-  Customers address
+	-  	Customers address
 	- 	Transcations
 	
 Tools used
@@ -16,6 +16,7 @@ Tools used
 	-	Power point presentation
 	
 Steps Followed:
+
 	-	Step one invloves cleaning data and creating summary
 		- Finding outliers
 		- finding blanks
