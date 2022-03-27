@@ -1,4 +1,4 @@
-KPMG Data Analytics Consulting Virtual Internship with Forago
+#### KPMG Data Analytics Consulting Virtual Internship with Forago
 
 This project was done under KPMG data analysis virtaul internship program. Project demonstrtes skills to perform complete data analysis on given datasets. Steps include data cleaning, data transofmartion, Summay preparion, cold emailing, power poitnt presentations, performing complete data analysisng, creating charts and graphs, preparing dashboard to share with client.
 
@@ -28,8 +28,9 @@ Steps Followed:
 	- preparing various kind of charts on gender, location, ages, jobs title, industry, past purchases using pivot table
 	- creating a power point presentation to show the details with client
 	
-- Step three involves creating a dashboard
-	-	creating a dashbard using google studio
+- 	Step three involves creating a dashboard
+	- creating a dashbard using google studio
 	- creating a dashboard in ms excel
+
 
 Certificate: https://www.linkedin.com/in/siddharthbadal/details/certifications/
