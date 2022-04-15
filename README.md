@@ -6,6 +6,8 @@ A company named SPROCKET central, that deal in high quality bikes and accessorie
 
 Tools used - Ms Excel - Google Spreadsheet - Google Studio - Power point presentation
 
+![Dashboard](https://sidharthbadal.netlify.app/images/bikeproject3.png)
+
 Steps Followed:
 
 -	Step one invloves cleaning data and creating summary
