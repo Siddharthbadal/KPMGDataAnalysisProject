@@ -38,4 +38,4 @@ Steps Followed:
 Certificate: https://www.linkedin.com/in/siddharthbadal/details/certifications/
 
 
-![Dashboard](https://github.com/Siddharthbadal/KPMGDataAnalysisProject/blob/main/KPMG-DataAnalysis-Virtual-Internship/KPMG_Dashboard-GoogleStudio.pdf)
+![Dashboard](https://sidharthbadal.netlify.app/images/bikeproject2.png)
