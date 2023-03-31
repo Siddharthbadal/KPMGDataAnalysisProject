@@ -6,7 +6,6 @@ A company named SPROCKET central, that deal in high quality bikes and accessorie
 
 Tools used - Ms Excel - Google Spreadsheet - Google Studio - Power point presentation
 
-![Dashboard](https://sidharthbadal.netlify.app/images/bikeproject3.png)
 
 Steps Followed:
 
@@ -38,4 +37,4 @@ Steps Followed:
 Certificate: https://www.linkedin.com/in/siddharthbadal/details/certifications/
 
 
-![Dashboard](https://sidharthbadal.netlify.app/images/bikeproject2.png)
+![Dashboard](https://raw.githubusercontent.com/Siddharthbadal/KPMGDataAnalysisProject/main/KPMG-DataAnalysis-Virtual-Internship/KPMG_Dashboard-GoogleStudio.pdf)
